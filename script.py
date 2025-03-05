@@ -5,7 +5,7 @@ import google.generativeai as genai
 import requests  # Import requests module for fetching images
 
 # Configure API Key
-api_key = "AIzaSyA9HuDSch0bz4cwd4_D40R5SV_fum9fZSE"  # Replace with your actual API key
+api_key = "AIzaSyBSelQqxWCwbRwxU9Uth_7tUtAviSI7rNY"  # Replace with your actual API key
 genai.configure(api_key=api_key)
 
 # Generation configuration
